@@ -1,0 +1,12 @@
+incidentID:                     unique id assigned to each accident 
+incidentCode:                   type of the accident 
+temperature:                    airplane cabin temperature during the occurence of the accident 
+galeStrength:                   wind turbulence in g-force experienced by the airplane during the accident 
+maneuverabilityScore:           metric for depicting the amount of control the pilot had on the aircraft during the accident 
+maintananceConcerns:            total number of complaints from maintainance technicians prior to the accident 
+lastInspected:                  number of days since the airplane was last inspected 
+inspectionScore:                metric depicting the safety factor of the airplane 
+scaleOfIncident:                measure of the severity of the accident [Target] 
+safetyCheckFailures:            number of safety violations that the aircraft received during the inspection prior to the accident 
+weatherSeverityScore:           a measure of hazardousness posed by the weather on the day of accident 
+maxCruisingElevation:           maximum recorded altitude attained by the airplane 
